@@ -48,7 +48,7 @@ Please upload your solutions via Moodle!
 ### Exercises
 Please upload your solutions via Moodle!
 * [Exercise 2_a](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb)
-* [Exercise 2_b](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/ 2_b_Recommender_SVD.ipynb)
+* [Exercise 2_b](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb)
 
 
 

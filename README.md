@@ -82,5 +82,17 @@ Please upload your solutions via Moodle!
 * [3_e_GroupBy II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
 * [3_f_GroupBy III](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
 
+## Block 4 - Machine Learning I-II
+
+### Static Slides
+* [Data Storage](Slides/04_a_Data_Storage.pdf)
+* [Machine Learning I - Intro](Slides/04-b_Machine_Learning_I.pdf)
+* [Machine Learning II - Clustering](Slides/04_c_Machine_Learning_II.pdf)
+
+
+### Notebooks
+* [Data Storage](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/04_a_Data_Storage.ipynb)
+* [Use Case: Clustering](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/04_d_UseCase_NY_Taxy_II.ipynb)
+
 
 

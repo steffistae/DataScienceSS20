@@ -80,7 +80,7 @@ Please upload your solutions via Moodle!
 * [3_c_Titanic](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_c_solution.ipynb)
 * [3_d_GroupBy I](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)[ -- solution -- ](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_d_solution.ipynb)
 * [3_e_GroupBy II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_e_solution.ipynb)
-* [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_solution.ipynb)
+* [[3_e_GroupBy III](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_II.ipynb) -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_solution.ipynb)
 
 ## Block 4 - Machine Learning I-II
 

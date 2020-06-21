@@ -38,18 +38,18 @@ Please upload your solutions via Moodle!
 * [Use Case](Slides/02_d_Use_Case_Recommender_System.pdf)
 
 ### Notebooks
-* [Tensor Algebra](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/02_b_Tensor_Algebra.ipynb)
-* [Use Case](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/02_c_UseCase_RecommendationSystems.ipynb)
+* [Tensor Algebra](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/02_b_Tensor_Algebra.ipynb)
+* [Use Case](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/02_c_UseCase_RecommendationSystems.ipynb)
 
 ### Lab
-* [NumPy](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/02_d_Numpy.ipynb)
+* [NumPy](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/02_d_Numpy.ipynb)
 
 
 ### Exercises
 Please upload your solutions via Moodle!
-* [Exercise 2_a](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb) [--Solution--](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_a_Solution.ipynb)
+* [Exercise 2_a](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb) [--Solution--](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/2_a_Solution.ipynb)
 
-* [Exercise 2_b](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb) [--Solution--](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_b-Solution.ipynb)
+* [Exercise 2_b](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb) [--Solution--](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/2_b-Solution.ipynb)
 
 
 ## Block 3 - Data Wrangling
@@ -61,26 +61,26 @@ Please upload your solutions via Moodle!
 
 
 ### Notebooks
-* [Data Wrangling](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/3_a_Data_Wrangling.ipynb)
-* [Basic Statistics](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/3_b_Basic_Statistics.ipynb)
-* [The Group By Pattern](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/3_c_GroupBy.ipynb)
+* [Data Wrangling](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/3_a_Data_Wrangling.ipynb)
+* [Basic Statistics](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/3_b_Basic_Statistics.ipynb)
+* [The Group By Pattern](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/3_c_GroupBy.ipynb)
 
 ### Lab
-* [Pandas Intro Part 1](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_01.ipynb)
-* [Pandas Intro Part 2](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_02.ipynb)
-* [Pandas Intro Part 3](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_03.ipynb)
-* [Pandas Intro Part 4](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_04.ipynb)
-* [Pandas Intro Part 5](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_05.ipynb)
-* [Pandas Intro Part 6](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_06.ipynb)
-* [Pandas Intro Part 7](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_07.ipynb)
+* [Pandas Intro Part 1](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_01.ipynb)
+* [Pandas Intro Part 2](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_02.ipynb)
+* [Pandas Intro Part 3](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_03.ipynb)
+* [Pandas Intro Part 4](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_04.ipynb)
+* [Pandas Intro Part 5](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_05.ipynb)
+* [Pandas Intro Part 6](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_06.ipynb)
+* [Pandas Intro Part 7](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_07.ipynb)
 
 ### Exercises
-* [3_a_Basic Pandas](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_a_solution.ipynb)
-* [3_b_Baby Names](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_b_solution.ipynb)
-* [3_c_Titanic](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_c_solution.ipynb)
-* [3_d_GroupBy I](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)[ -- solution -- ](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_d_solution.ipynb)
-* [3_e_GroupBy II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_e_solution.ipynb)
-* [3_e_GroupBy III](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_solution.ipynb)
+* [3_a_Basic Pandas](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)[ -- solution --](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_a_solution.ipynb)
+* [3_b_Baby Names](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)[ -- solution --](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_b_solution.ipynb)
+* [3_c_Titanic](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )[ -- solution --](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_c_solution.ipynb)
+* [3_d_GroupBy I](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)[ -- solution -- ](https://colab.research.google.com/github/Ysteffistae/DataScienceSS20/blob/master/Exercises/3_d_solution.ipynb)
+* [3_e_GroupBy II](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_e_solution.ipynb)
+* [3_e_GroupBy III](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/steffistae/DataScienceSS20/blob/master/Exercises/3_f_solution.ipynb)
 
 ## Block 4 - Machine Learning I-II
 
